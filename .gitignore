@@ -1,0 +1,10 @@
+.vscode
+/Recursion/*
+!*.cpp
+!*.h
+/Linked List/*
+!*.cpp
+!*.h
+/Sort/*
+!*.cpp
+!*.h
